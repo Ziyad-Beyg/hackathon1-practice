@@ -4,7 +4,7 @@
  
 @layer components {
   .wrapper {
-    @apply max-w-screen-xl;
+    @apply sm:max-w-screen-sm md:max-w-screen-md lg:max-w-screen-lg;
     margin: auto;
     padding: 10px;
   }
